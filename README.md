@@ -1,5 +1,5 @@
 # Fawry-system
-## in this project you will work on building something similar to Fawry system. This system should be user by users to pay for different services.
+## in this project you will work on building something similar to Fawry system. This system should be user by users to pay for different services with The web service API.
 ### The initial services are
 a. Mobile recharge services.
 i. Vodafone
