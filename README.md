@@ -10,7 +10,7 @@ This project is a payment system similar to Fawry. It allows users to pay for va
 <li>The user can pay for any service in the system by filling out a payment form. The default payment method is credit card, but the user should also have the option to pay using their wallet balance (as described in requirement 6). If the service accepts cash on delivery, this option should also be visible.</li>
 <li>The user can request a refund for any completed transaction from a service by submitting a request to the admin. If the admin approves the refund, the process should complete successfully.</li>
 <li>The system maintains a wallet balance for each user, and the user should be able to add funds to their wallet using a credit card.</li>
-<li>The user should be able to check for any discounts available for a particular service. Discounts can be added by the admin (as described in requirement 2b of the Admin section).</li>
+<li>The user should be able to check for any discounts available for a particular service. Discounts can be added by the admin (as described in requirement 2 of the Admin section).</li>
 </ol>
 
 ### Admin
